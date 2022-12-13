@@ -34,3 +34,9 @@ git update-ref -d HEAD
 ```
 git commit -m "Se agrega el primer commit."
 ```
+
+-ahora se hace el primer push pero en el caso no te deje realizar el push al origin, en ese caso hay que hacer un force.
+
+```
+git push origin main --force
+```
