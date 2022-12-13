@@ -1,0 +1,7 @@
+Informacion del producto de SecuRex
+
+- Url de resultados: https://securex.pe
+- Producto: <div class="col-md-5 col-xs-5 text-center">
+- Nombre: <span class="fs-16-bold">
+- Precio: <span style="font-weight: 600 !important;">
+- Url: https://securex.pe/?gclid=CjwKCAiAv9ucBhBXEiwA6N8nYOz0E2tio3nVu5p8_6ASr6gA9NDZPOHe0Sp2bVEO_sjfxRRdYndHIhoC-3cQAvD_BwE
