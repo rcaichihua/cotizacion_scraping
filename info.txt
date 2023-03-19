@@ -1,5 +1,5 @@
 Informacion del producto de SecuRex
-
+- Si
 - Url de resultados: https://securex.pe
 - Producto: <div class="col-md-5 col-xs-5 text-center">
 - Nombre: <span class="fs-16-bold">
